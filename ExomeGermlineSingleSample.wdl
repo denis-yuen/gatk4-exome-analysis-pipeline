@@ -40,11 +40,7 @@ import "https://raw.githubusercontent.com/gatk-workflows/gatk4-exome-analysis-pi
 # WORKFLOW DEFINITION
 workflow ExomeGermlineSingleSample {
 
-  meta {
-    author: "Funky Flem"
-    email: "flem@funky.com"
-    description: "## Adding documentation improves clarity."
-  }
+  malformated junk
 
   input {
     PapiSettings papi_settings
